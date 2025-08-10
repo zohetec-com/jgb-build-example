@@ -1,5 +1,5 @@
-Package: hello
-Version: 1.0
-Architecture: amd64
+Package: JGB_RELEASE
+Version: JGB_VERSION
+Architecture: JGB_RELEASE_ARCH
 Maintainer: your.email@example.com>
 Description: A simple "hello world" program
