@@ -1,0 +1,5 @@
+{
+"release":"abc",
+"version":"0.1",
+"packages":["jansson-2.14.1","pcre2-10.45","jgb@v0.1"]
+}
